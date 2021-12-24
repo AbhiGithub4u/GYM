@@ -136,10 +136,8 @@ header{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    
     background:url(image/bg.jpg) no-repeat center center/cover;
     top: 20px;
-    /* clip-path: polygon(100% 0,100% 91%,49% 100%,0 89%,0 0); */
 }
 .home-content{
     margin: 0px 5rem;
@@ -215,7 +213,7 @@ header{
 /* servicessection */
 
 .box-container{
-    margin: 3rem 2rem
+    margin: 3rem 2rem;
 }
 .box-container .three-container{
     display: flex;
