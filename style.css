@@ -136,7 +136,6 @@ header{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    width: 100%;
     
     background:url(image/bg.jpg) no-repeat center center/cover;
     top: 20px;
@@ -350,11 +349,8 @@ header{
 @media (max-width:1000px) {
     html{
         font-size: 80%;
-    }
-    .home{
-        background: url(image/bg2.jpg) no-repeat center center/cover;
-        width: 102%;
-    }
+   }
+   
     .nav-links{
         margin: 0px 5px;
     }  
